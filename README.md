@@ -1,7 +1,14 @@
 # Crop Prediction Model
 
 This repository contains a machine learning model that recommends the optimal crop to grow based on soil and environmental factors. The model is built using a Random Forest Classifier and deployed as a simple web application using Flask.
+---
 
+## 🌐 Live Demo
+
+🎥 **Try it now:**  
+👉 [crop prediction](https://crop-pred-dd1p.onrender.com/)
+
+---
 ## Features
 - **Crop Recommendation:** Predicts the most suitable crop from 22 options based on seven input parameters.
 - **High Accuracy:** The underlying Random Forest model was trained to an accuracy of approximately 99.3%.
